@@ -1,4 +1,4 @@
-#!"C:\Users\Himanshu Hamal\AppData\Local\Programs\Python\Python35-32\python"
+
 
 print ("content-type: text/html\n")
 
